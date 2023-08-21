@@ -1,0 +1,15 @@
+{
+  "name": "2figures1door",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "ivan_v",
+  "license": "ISC",
+  "dependencies": {
+    "three": "^0.155.0",
+    "three-obj-loader": "^1.1.3"
+  }
+}
